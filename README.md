@@ -14,11 +14,12 @@ An interactive Power BI dashboard to analyze coffee sales performance, trends, a
 - Product-wise Sales Analysis
 - Clean and aesthetic dashboard design
 
-## 📁 Files Included
+## 📁 Repository Contents
 
-- `Dashboard/` → Power BI file (.pbix)
-- `Dataset/` → Raw dataset used
-- `Images/` → Dashboard screenshots
+- `Coffee_sales_analysis.pbix` — Interactive Power BI dashboard
+- `Coffe_sales.xlsx` — Source dataset used for the analysis
+- `Coffee_sales_dashboard.png` — Dashboard preview
+- `README.md` — Project documentation
 
 ## 🛠 Tools Used
 
