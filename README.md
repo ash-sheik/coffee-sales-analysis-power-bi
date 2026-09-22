@@ -2,6 +2,10 @@
 
 An interactive Power BI dashboard to analyze coffee sales performance, trends, and customer behavior.
 
+## 📊 Dashboard Preview
+
+![Coffee Sales Dashboard](Coffee_sales_dashboard.png)
+
 ## 📊 Features
 
 - Monthly Sales Trends
