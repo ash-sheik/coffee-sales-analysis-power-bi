@@ -37,6 +37,9 @@ An interactive Power BI dashboard to analyze coffee sales performance, trends, a
 2. Open in Power BI Desktop
 3. Explore visuals and insights
 
-## ASHIBA B
-## ashibab23@gmail.com
-## www.linkedin.com/in/ashiba-b-2309-
+## 👩‍💻 Author
+
+**Ashiba B**  
+Data Analyst | SQL | Power BI | Excel | Python  
+
+[LinkedIn](https://www.linkedin.com/in/ashiba-data-analyst) | [Email](mailto:ashibab23@gmail.com)
