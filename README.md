@@ -1,46 +1,54 @@
-# ☕ Coffee Sales Dashboard (Power BI)
+# Coffee Sales Analysis | Power BI
 
-An interactive Power BI dashboard to analyze coffee sales performance, trends, and customer behavior.
+An interactive Power BI report for exploring coffee sales performance, transaction patterns and product trends.
 
-## 📊 Dashboard Preview
+## Business questions
+
+- How do sales change across months?
+- How many transactions are recorded?
+- What is the average transaction value?
+- Which coffee products contribute most to sales?
+- How are sales distributed across time-of-day periods?
+
+## Dashboard preview
 
 ![Coffee Sales Dashboard](Coffee_sales_dashboard.png)
 
-## 📊 Features
+## Report contents
 
-- Monthly Sales Trends
-- Total Sales, Transactions & Average Price KPIs
-- Sales by Time of Day (Morning, Afternoon, Night)
-- Product-wise Sales Analysis
-- Clean and aesthetic dashboard design
+- Monthly sales trend.
+- Total sales, transaction count and average-price KPIs.
+- Sales by time of day.
+- Product-level sales comparison.
 
-## 📁 Repository Contents
+## Repository files
 
-- `Coffee_sales_analysis.pbix` — Interactive Power BI dashboard
-- `Coffe_sales.xlsx` — Source dataset used for the analysis
-- `Coffee_sales_dashboard.png` — Dashboard preview
-- `README.md` — Project documentation
+- `Coffee_sales_analysis.pbix` — Power BI report.
+- `Coffe_sales.xlsx` — source workbook (filename retained as uploaded).
+- `Coffee_sales_dashboard.png` — dashboard preview.
 
-## 🛠 Tools Used
+## Tools
 
-- Power BI
-- Excel (Data Cleaning & Preparation)
+- Microsoft Power BI Desktop
+- Excel for source-data preparation
 
-## 📌 Key Insights
+## Open the report
 
-- Peak sales observed in March & October
-- Latte is the top-selling product
-- Sales are evenly distributed across time periods
+1. Download the PBIX and source workbook.
+2. Open the PBIX file in Power BI Desktop.
+3. If prompted, reconnect the source to the downloaded workbook.
+4. Refresh the model and explore the report filters.
 
-## 🚀 How to Use
+## Findings
 
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Explore visuals and insights
+The current report highlights monthly variation, product-level performance and differences across time-of-day categories. Exact numerical claims should be checked against the refreshed report and source workbook before being quoted.
 
-## 👩‍💻 Author
+## Data and reproducibility
 
-**Ashiba B**  
-Data Analyst | SQL | Power BI | Excel | Python  
+Add the original dataset source and its license/usage terms here before redistributing the workbook. Do not include confidential or personally identifiable customer information.
 
-[LinkedIn](https://www.linkedin.com/in/ashiba-data-analyst) | [Email](mailto:ashibab23@gmail.com)
+## Author
+
+**Ashiba B**
+
+[LinkedIn](https://www.linkedin.com/in/ashiba-data-analyst) · [GitHub](https://github.com/ash-sheik)
